@@ -1,7 +1,7 @@
 
-accessid= 'LTAImYzZZg2dtqyp';
-accesskey= 'f5NIziDwE5m46Jb5HTWUEwMrbcvJGb';
-host = 'http://rennana.oss-cn-beijing.aliyuncs.com';
+accessid= '######';
+accesskey= '##########################';
+host = '############################';
 
 g_dirname = ''
 g_object_name = ''
